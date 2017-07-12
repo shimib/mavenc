@@ -1,0 +1,12 @@
+archetype --- templating
+versions --- version management
+static code analyzers -- sonar, findbugs, pmd, cpd, checkstyle -- reporting
+dependency -- analyze, tree (-Dverbose), copy-dependencies
+assembly -- create zip/tar...
+shade --- create an Uber-jar with packages renamed to avoid collisions.
+release --- work with SCM labels and snaptshots vs. releases
+cargo -- manage functional/integration tests with JavaEE app servers
+wagon -- transfer files
+maven-docker-plugin --- build/push docker images
+
+
